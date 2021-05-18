@@ -7,3 +7,10 @@ Il est important de le rappeler mais le bot a été fait il y a assez longtemps,
 - Module utilisé : `discord.js` `fs` `random-puppy` `superagent`.
 - API utilisé : https://nekos.life/api/v2/endpoints (attention au nsfw sur l'api lors de la génération des images).
 - Un launch.json a été ajouté pour facilité le lancement du bot avec F5.
+
+# CONFIGURATION
+```const config = {
+    "TOKEN" : "",
+    "PREFIX" : "",
+  }
+module.exports = config;```

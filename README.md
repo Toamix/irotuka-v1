@@ -12,8 +12,8 @@ Il est important de le rappeler mais le bot a été fait il y a assez longtemps,
 
 ```
 const config = {
-    "TOKEN" : "",
-    "PREFIX" : "",
+    "TOKEN" : "", // <- Votre token
+    "PREFIX" : "", // <- Votre prefix
   }
-module.exports = config
+module.exports = config;
 ```

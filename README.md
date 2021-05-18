@@ -10,8 +10,8 @@ Il est important de le rappeler mais le bot a été fait il y a assez longtemps,
 
 # CONFIGURATION
 
-```const config = {
+``const config = {
     "TOKEN" : "",
     "PREFIX" : "",
   }
-module.exports = config;```
+module.exports = config;``

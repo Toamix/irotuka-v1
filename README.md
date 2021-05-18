@@ -9,6 +9,7 @@ Il est important de le rappeler mais le bot a été fait il y a assez longtemps,
 - Un launch.json a été ajouté pour facilité le lancement du bot avec F5.
 
 # CONFIGURATION
+
 ```const config = {
     "TOKEN" : "",
     "PREFIX" : "",
